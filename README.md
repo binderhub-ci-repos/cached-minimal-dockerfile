@@ -1,0 +1,1 @@
+A Dockerfile depending on the Docker image built in https://github.com/binderhub-ci-repos/minimal-dockerfile and published to [DockerHub](https://hub.docker.com/repository/docker/jupyterhub/binderhub-ci-repos_minimal-dockerfile).
